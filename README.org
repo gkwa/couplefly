@@ -1,0 +1,15 @@
+* couplefly
+
+** summary
+
+Learn how to use go positional arguments along with named arguments.
+
+** usage
+
+Example:
+#+begin_example
+make test
+./couplefly --help
+./couplefly --log-level=debug
+./couplefly --log-level=debug Username@hostname:portnumber
+#+end_example
